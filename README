@@ -1,0 +1,16 @@
+
+	$$$	 genpass	 $$$
+
+Description:
+	generation password
+
+Author: Tr.Vlad
+Git: Troshin-Vlad
+
+Install:
+
+$ make
+
+OR:
+
+$ gcc genpass.c -o genpass
